@@ -103,7 +103,4 @@ deploy:
   type: git
   repo: https://github.com/class4-grade9/class4-grade9.github.io.git
   branch: gh-pages
-  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
-  
-  # 确保public目录是唯一发布目录  
   dir: public
