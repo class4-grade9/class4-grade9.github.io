@@ -4,6 +4,12 @@ menu:
   主页:
     url: /
     icon: fas fa-home
+  时光精选集:  # 新增导航项
+    url: /时光精选集/
+    icon: fas fa-images
+  班级之星:
+    url: /班级之星/
+    icon: fas fa-star
   标签:
     url: /tags
     icon: fas fa-tags
