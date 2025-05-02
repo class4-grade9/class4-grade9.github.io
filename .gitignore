@@ -1,1 +1,14 @@
-public/*
+# Hexo生成目录
+public/
+.deploy_git/
+
+# 依赖目录
+node_modules/
+
+# 编辑器配置
+.idea/
+.vscode/
+
+# 调试文件
+debug.log
+db.json
